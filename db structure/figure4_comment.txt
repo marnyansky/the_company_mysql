@@ -1,0 +1,3 @@
+- personal salary bonus (`sa_bonus`) accepts values 'Y' or 'N' (resembles "true/false" pair)
+- personal salary bonus amount (`sa_bonus_amount`) is one of two salary bonuses;
+	the other one is office salary bonus amount (Office.`of_bonus_amount`)

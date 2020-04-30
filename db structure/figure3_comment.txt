@@ -1,0 +1,5 @@
+- employee ID (`st_empl_id`) starts
+	from 1 for office in Israel
+	from 201 for office in France
+	from 401 for office in Japan
+- `st_startdate` = first day as a company employee
